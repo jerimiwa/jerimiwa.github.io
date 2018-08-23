@@ -1,0 +1,19 @@
+body {
+    background-color: #c9c9c9;
+}
+
+a {
+    
+    color:purple;
+}
+
+a:hover { 
+    background-color: red;
+}
+
+ol {
+    
+    text-decoration: blink;
+    color:blue;
+    
+}
