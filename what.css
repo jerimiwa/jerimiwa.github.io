@@ -8,12 +8,16 @@ a {
 }
 
 a:hover { 
-    background-color: red;
+    
+    background-color:gold;
+    text-decoration: none
+    
 }
 
-ol {
+
+div {
     
-    text-decoration: blink;
-    color:blue;
+    color:#123368;
+
     
 }
