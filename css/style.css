@@ -80,8 +80,19 @@ header a:hover{
   font-weight:bold;
 }
 
+.link {
+  text-decoration: none;
+}
+
 /* Showcase */
 #showcase{
+  min-height:400px;
+  background:url('../img/showcase.jpg') no-repeat 0 -400px;
+  text-align:center;
+  color:#ffffff;
+}
+
+#showcase2{
   min-height:400px;
   background:url('../img/showcase.jpg') no-repeat 0 -400px;
   text-align:center;
