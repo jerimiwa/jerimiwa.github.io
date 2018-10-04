@@ -220,9 +220,29 @@ footer{
 }
 
 .game {
+    text-decoration: none;
     margin-top: 100px;
     margin-bottom: 100px;
     margin-right: 150px;
     margin-left: 150px;
     font-size: 20px;
+}
+
+.gametitle {
+    color:orange;
+    text-shadow: 
+    -1px -1px 0 #000,
+    1px -1px 0 #000,
+    -1px 1px 0 #000,
+    1px 1px 0 #000;
+    margin-top: 100px;
+    margin-bottom: 100px;
+    margin-right: 150px;
+    margin-left: 150px;
+    font-size: 20px;
+}
+
+.a {
+    text-decoration: none;
+    color:white;
 }
