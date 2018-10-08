@@ -229,7 +229,7 @@ footer{
 }
 
 .gametitle {
-    color:orange;
+    color:lightblue;
     text-shadow: 
     -1px -1px 0 #000,
     1px -1px 0 #000,
@@ -240,9 +240,3 @@ footer{
     margin-right: 150px;
     margin-left: 150px;
     font-size: 20px;
-}
-
-.a {
-    text-decoration: none;
-    color:white;
-}
