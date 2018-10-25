@@ -266,6 +266,8 @@ div.gallery2 {
       padding: 15px;
       text-align: center;
     }
+    
+    
 
 body {
     padding-bottom: 50px;
@@ -289,3 +291,8 @@ body {
 }
 
 
+div.space 
+    
+    img{border:0;}
+
+    
